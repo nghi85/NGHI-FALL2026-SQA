@@ -1,0 +1,132 @@
+2026-11-18 21:55:01,569 INFO checkIfWeirdYAML called with: None
+2026-11-18 21:55:01,569 INFO keyMiner called with value: None
+2026-11-18 21:55:01,569 INFO getKeyRecursively called at depth: 0
+2026-11-18 21:55:01,569 INFO getValuesRecursively called with type: <class 'NoneType'>
+2026-11-18 21:55:01,569 INFO getValsFromKey called with target: None
+2026-11-18 21:55:01,569 INFO checkIfValidHelm called with: None
+2026-11-18 21:55:01,569 INFO update_json_paths called with: None
+2026-11-18 21:55:01,569 INFO getSingleDict4MultiDocs called with: None
+2026-11-18 21:55:01,569 INFO constructHelmString called with: None
+2026-11-18 21:55:01,569 INFO getValidTaints called with: None
+2026-11-18 21:55:01,569 INFO checkIfWeirdYAML called with: 0
+2026-11-18 21:55:01,569 INFO keyMiner called with value: 0
+2026-11-18 21:55:01,569 INFO getKeyRecursively called at depth: 0
+2026-11-18 21:55:01,569 INFO getValuesRecursively called with type: <class 'int'>
+2026-11-18 21:55:01,569 INFO getValsFromKey called with target: 0
+2026-11-18 21:55:01,569 INFO checkIfValidHelm called with: 0
+2026-11-18 21:55:01,570 INFO update_json_paths called with: 0
+2026-11-18 21:55:01,570 INFO getSingleDict4MultiDocs called with: 0
+2026-11-18 21:55:01,570 INFO constructHelmString called with: 0
+2026-11-18 21:55:01,570 INFO getValidTaints called with: 0
+2026-11-18 21:55:01,570 INFO checkIfWeirdYAML called with: -1
+2026-11-18 21:55:01,570 INFO keyMiner called with value: -1
+2026-11-18 21:55:01,570 INFO getKeyRecursively called at depth: 0
+2026-11-18 21:55:01,570 INFO getValuesRecursively called with type: <class 'int'>
+2026-11-18 21:55:01,570 INFO getValsFromKey called with target: -1
+2026-11-18 21:55:01,570 INFO checkIfValidHelm called with: -1
+2026-11-18 21:55:01,570 INFO update_json_paths called with: -1
+2026-11-18 21:55:01,570 INFO getSingleDict4MultiDocs called with: -1
+2026-11-18 21:55:01,570 INFO constructHelmString called with: -1
+2026-11-18 21:55:01,570 INFO getValidTaints called with: -1
+2026-11-18 21:55:01,570 INFO checkIfWeirdYAML called with: 3.14
+2026-11-18 21:55:01,570 INFO keyMiner called with value: 3.14
+2026-11-18 21:55:01,570 INFO getKeyRecursively called at depth: 0
+2026-11-18 21:55:01,570 INFO getValuesRecursively called with type: <class 'float'>
+2026-11-18 21:55:01,570 INFO getValsFromKey called with target: 3.14
+2026-11-18 21:55:01,570 INFO checkIfValidHelm called with: 3.14
+2026-11-18 21:55:01,570 INFO update_json_paths called with: 3.14
+2026-11-18 21:55:01,570 INFO getSingleDict4MultiDocs called with: 3.14
+2026-11-18 21:55:01,570 INFO constructHelmString called with: 3.14
+2026-11-18 21:55:01,570 INFO getValidTaints called with: 3.14
+2026-11-18 21:55:01,570 INFO checkIfWeirdYAML called with: 
+2026-11-18 21:55:01,570 INFO keyMiner called with value: 
+2026-11-18 21:55:01,570 INFO getKeyRecursively called at depth: 0
+2026-11-18 21:55:01,570 INFO getValuesRecursively called with type: <class 'str'>
+2026-11-18 21:55:01,570 INFO getValsFromKey called with target: 
+2026-11-18 21:55:01,570 INFO checkIfValidHelm called with: 
+2026-11-18 21:55:01,570 INFO update_json_paths called with: 
+2026-11-18 21:55:01,570 INFO getSingleDict4MultiDocs called with: 
+2026-11-18 21:55:01,570 INFO constructHelmString called with: 
+2026-11-18 21:55:01,570 INFO getValidTaints called with: 
+2026-11-18 21:55:01,570 INFO checkIfWeirdYAML called with: abc
+2026-11-18 21:55:01,570 INFO keyMiner called with value: abc
+2026-11-18 21:55:01,570 INFO getKeyRecursively called at depth: 0
+2026-11-18 21:55:01,570 INFO getValuesRecursively called with type: <class 'str'>
+2026-11-18 21:55:01,570 INFO getValsFromKey called with target: abc
+2026-11-18 21:55:01,570 INFO checkIfValidHelm called with: abc
+2026-11-18 21:55:01,570 INFO update_json_paths called with: abc
+2026-11-18 21:55:01,571 INFO getSingleDict4MultiDocs called with: abc
+2026-11-18 21:55:01,571 INFO constructHelmString called with: abc
+2026-11-18 21:55:01,571 INFO getValidTaints called with: abc
+2026-11-18 21:55:01,571 INFO checkIfWeirdYAML called with: github/workflows/
+2026-11-18 21:55:01,571 INFO keyMiner called with value: github/workflows/
+2026-11-18 21:55:01,571 INFO getKeyRecursively called at depth: 0
+2026-11-18 21:55:01,571 INFO getValuesRecursively called with type: <class 'str'>
+2026-11-18 21:55:01,571 INFO getValsFromKey called with target: github/workflows/
+2026-11-18 21:55:01,571 INFO checkIfValidHelm called with: github/workflows/
+2026-11-18 21:55:01,571 INFO update_json_paths called with: github/workflows/
+2026-11-18 21:55:01,571 INFO getSingleDict4MultiDocs called with: github/workflows/
+2026-11-18 21:55:01,571 INFO constructHelmString called with: github/workflows/
+2026-11-18 21:55:01,571 INFO getValidTaints called with: github/workflows/
+2026-11-18 21:55:01,571 INFO checkIfWeirdYAML called with: []
+2026-11-18 21:55:01,571 INFO keyMiner called with value: []
+2026-11-18 21:55:01,571 INFO getKeyRecursively called at depth: 0
+2026-11-18 21:55:01,571 INFO getValuesRecursively called with type: <class 'list'>
+2026-11-18 21:55:01,571 INFO getValsFromKey called with target: []
+2026-11-18 21:55:01,571 INFO checkIfValidHelm called with: []
+2026-11-18 21:55:01,571 INFO update_json_paths called with: []
+2026-11-18 21:55:01,571 INFO getSingleDict4MultiDocs called with: []
+2026-11-18 21:55:01,571 INFO constructHelmString called with: []
+2026-11-18 21:55:01,571 INFO getValidTaints called with: []
+2026-11-18 21:55:01,571 INFO checkIfWeirdYAML called with: [[]]
+2026-11-18 21:55:01,571 INFO keyMiner called with value: [[]]
+2026-11-18 21:55:01,571 INFO getKeyRecursively called at depth: 0
+2026-11-18 21:55:01,571 INFO getValuesRecursively called with type: <class 'list'>
+2026-11-18 21:55:01,571 INFO getValuesRecursively called with type: <class 'list'>
+2026-11-18 21:55:01,571 INFO getValsFromKey called with target: [[]]
+2026-11-18 21:55:01,571 INFO checkIfValidHelm called with: [[]]
+2026-11-18 21:55:01,571 INFO update_json_paths called with: [[]]
+2026-11-18 21:55:01,571 INFO getSingleDict4MultiDocs called with: [[]]
+2026-11-18 21:55:01,571 INFO constructHelmString called with: [[]]
+2026-11-18 21:55:01,571 INFO getValidTaints called with: [[]]
+2026-11-18 21:55:01,571 INFO checkIfWeirdYAML called with: {}
+2026-11-18 21:55:01,571 INFO keyMiner called with value: {}
+2026-11-18 21:55:01,571 INFO getKeyRecursively called at depth: 0
+2026-11-18 21:55:01,571 INFO getValuesRecursively called with type: <class 'dict'>
+2026-11-18 21:55:01,571 INFO getValsFromKey called with target: {}
+2026-11-18 21:55:01,571 INFO checkIfValidHelm called with: {}
+2026-11-18 21:55:01,571 INFO update_json_paths called with: {}
+2026-11-18 21:55:01,571 INFO getSingleDict4MultiDocs called with: {}
+2026-11-18 21:55:01,571 INFO constructHelmString called with: {}
+2026-11-18 21:55:01,571 INFO getValidTaints called with: {}
+2026-11-18 21:55:01,571 INFO checkIfWeirdYAML called with: {'a': None}
+2026-11-18 21:55:01,571 INFO keyMiner called with value: {'a': None}
+2026-11-18 21:55:01,571 INFO getKeyRecursively called at depth: 0
+2026-11-18 21:55:01,571 INFO getValuesRecursively called with type: <class 'dict'>
+2026-11-18 21:55:01,571 INFO getValuesRecursively called with type: <class 'NoneType'>
+2026-11-18 21:55:01,571 INFO getValsFromKey called with target: {'a': None}
+2026-11-18 21:55:01,571 INFO checkIfValidHelm called with: {'a': None}
+2026-11-18 21:55:01,571 INFO update_json_paths called with: {'a': None}
+2026-11-18 21:55:01,571 INFO getSingleDict4MultiDocs called with: {'a': None}
+2026-11-18 21:55:01,571 INFO constructHelmString called with: {'a': None}
+2026-11-18 21:55:01,571 INFO getValidTaints called with: {'a': None}
+2026-11-18 21:55:01,571 INFO checkIfWeirdYAML called with: (1, 2)
+2026-11-18 21:55:01,571 INFO keyMiner called with value: (1, 2)
+2026-11-18 21:55:01,572 INFO getKeyRecursively called at depth: 0
+2026-11-18 21:55:01,572 INFO getValuesRecursively called with type: <class 'tuple'>
+2026-11-18 21:55:01,572 INFO getValsFromKey called with target: (1, 2)
+2026-11-18 21:55:01,572 INFO checkIfValidHelm called with: (1, 2)
+2026-11-18 21:55:01,572 INFO update_json_paths called with: (1, 2)
+2026-11-18 21:55:01,572 INFO getSingleDict4MultiDocs called with: (1, 2)
+2026-11-18 21:55:01,572 INFO constructHelmString called with: (1, 2)
+2026-11-18 21:55:01,572 INFO getValidTaints called with: (1, 2)
+2026-11-18 21:55:01,572 INFO checkIfWeirdYAML called with: True
+2026-11-18 21:55:01,572 INFO keyMiner called with value: True
+2026-11-18 21:55:01,572 INFO getKeyRecursively called at depth: 0
+2026-11-18 21:55:01,572 INFO getValuesRecursively called with type: <class 'bool'>
+2026-11-18 21:55:01,572 INFO getValsFromKey called with target: True
+2026-11-18 21:55:01,572 INFO checkIfValidHelm called with: True
+2026-11-18 21:55:01,572 INFO update_json_paths called with: True
+2026-11-18 21:55:01,572 INFO getSingleDict4MultiDocs called with: True
+2026-11-18 21:55:01,572 INFO constructHelmString called with: True
+2026-11-18 21:55:01,572 INFO getValidTaints called with: True

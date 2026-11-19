@@ -1,0 +1,46 @@
+checkIfWeirdYAML(None,) -> TypeError: argument of type 'NoneType' is not iterable
+checkIfValidHelm(None,) -> TypeError: argument of type 'NoneType' is not iterable
+update_json_paths(None,) -> TypeError: 'NoneType' object is not iterable
+getSingleDict4MultiDocs(None,) -> TypeError: 'NoneType' object is not iterable
+constructHelmString(None,) -> TypeError: cannot unpack non-iterable NoneType object
+getValidTaints(None,) -> TypeError: 'NoneType' object is not iterable
+checkIfWeirdYAML(0,) -> TypeError: argument of type 'int' is not iterable
+checkIfValidHelm(0,) -> TypeError: argument of type 'int' is not iterable
+update_json_paths(0,) -> TypeError: 'int' object is not iterable
+getSingleDict4MultiDocs(0,) -> TypeError: 'int' object is not iterable
+constructHelmString(0,) -> TypeError: cannot unpack non-iterable int object
+getValidTaints(0,) -> TypeError: 'int' object is not iterable
+checkIfWeirdYAML(-1,) -> TypeError: argument of type 'int' is not iterable
+checkIfValidHelm(-1,) -> TypeError: argument of type 'int' is not iterable
+update_json_paths(-1,) -> TypeError: 'int' object is not iterable
+getSingleDict4MultiDocs(-1,) -> TypeError: 'int' object is not iterable
+constructHelmString(-1,) -> TypeError: cannot unpack non-iterable int object
+getValidTaints(-1,) -> TypeError: 'int' object is not iterable
+checkIfWeirdYAML(3.14,) -> TypeError: argument of type 'float' is not iterable
+checkIfValidHelm(3.14,) -> TypeError: argument of type 'float' is not iterable
+update_json_paths(3.14,) -> TypeError: 'float' object is not iterable
+getSingleDict4MultiDocs(3.14,) -> TypeError: 'float' object is not iterable
+constructHelmString(3.14,) -> TypeError: cannot unpack non-iterable float object
+getValidTaints(3.14,) -> TypeError: 'float' object is not iterable
+constructHelmString('',) -> ValueError: not enough values to unpack (expected 3, got 0)
+getValidTaints('abc',) -> ValueError: not enough values to unpack (expected 2, got 1)
+constructHelmString('github/workflows/',) -> ValueError: too many values to unpack (expected 3)
+getValidTaints('github/workflows/',) -> ValueError: not enough values to unpack (expected 2, got 1)
+constructHelmString([],) -> ValueError: not enough values to unpack (expected 3, got 0)
+update_json_paths([[]],) -> TypeError: expected string or bytes-like object
+getSingleDict4MultiDocs([[]],) -> IndexError: list index out of range
+constructHelmString([[]],) -> ValueError: not enough values to unpack (expected 3, got 1)
+getValidTaints([[]],) -> ValueError: not enough values to unpack (expected 2, got 0)
+constructHelmString({},) -> ValueError: not enough values to unpack (expected 3, got 0)
+getKeyRecursively({'a': None}, {'a': None}) -> AttributeError: 'dict' object has no attribute 'append'
+constructHelmString({'a': None},) -> ValueError: not enough values to unpack (expected 3, got 1)
+getValidTaints({'a': None},) -> ValueError: not enough values to unpack (expected 2, got 1)
+update_json_paths((1, 2),) -> TypeError: expected string or bytes-like object
+constructHelmString((1, 2),) -> ValueError: not enough values to unpack (expected 3, got 2)
+getValidTaints((1, 2),) -> TypeError: cannot unpack non-iterable int object
+checkIfWeirdYAML(True,) -> TypeError: argument of type 'bool' is not iterable
+checkIfValidHelm(True,) -> TypeError: argument of type 'bool' is not iterable
+update_json_paths(True,) -> TypeError: 'bool' object is not iterable
+getSingleDict4MultiDocs(True,) -> TypeError: 'bool' object is not iterable
+constructHelmString(True,) -> TypeError: cannot unpack non-iterable bool object
+getValidTaints(True,) -> TypeError: 'bool' object is not iterable
